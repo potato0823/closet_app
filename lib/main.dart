@@ -90,3 +90,5 @@ void main() {
   final a = MaterialApp(home: closetHome());
   runApp(a);
 }
+
+// main()はアプリのエントリーポイント。ここからアプリが始まる
